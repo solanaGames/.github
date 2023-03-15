@@ -1,4 +1,4 @@
-# Solana Games
+# Rock Games Studio
 
 defi x gaming studio on solana
 
