@@ -1,4 +1,4 @@
-# Rock Games Studio
+# Tilted Fish Games
 
 defi x gaming studio on solana
 
